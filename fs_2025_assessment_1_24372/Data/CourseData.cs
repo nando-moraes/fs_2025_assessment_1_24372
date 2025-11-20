@@ -1,7 +1,7 @@
-﻿using fs_2025_a_api_demo_002.Models;
+﻿using fs_2025_assessment_1_24372.Models;
 using System.Text.Json;
 
-namespace fs_2025_a_api_demo_002.Data
+namespace fs_2025_assessment_1_24372.Data
 {
     public class CourseData
     {

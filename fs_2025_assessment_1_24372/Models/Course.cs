@@ -1,4 +1,4 @@
-﻿namespace fs_2025_a_api_demo_002.Models
+﻿namespace fs_2025_assessment_1_24372.Models
 {
 
     public class CourseModel

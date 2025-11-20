@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>fs_2025_a_api_demo_002</RootNamespace>
+    <RootNamespace>fs_2025_assessment_1_24372</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

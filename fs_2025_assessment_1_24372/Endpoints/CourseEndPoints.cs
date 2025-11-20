@@ -1,6 +1,6 @@
-﻿using fs_2025_a_api_demo_002.Data;
+﻿using fs_2025_assessment_1_24372.Data;
 
-namespace fs_2025_a_api_demo_002.Endpoints
+namespace fs_2025_assessment_1_24372.Endpoints
 {
     public static class CourseEndPoints
     {

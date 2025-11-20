@@ -1,5 +1,5 @@
-using fs_2025_a_api_demo_002.Endpoints;
-using fs_2025_a_api_demo_002.Startup;
+using fs_2025_assessment_1_24372.Endpoints;
+using fs_2025_assessment_1_24372.Startup;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +29,7 @@ app.AddWeatherEndPoints();
 app.AddRootEndPoints();
 app.AddBookEndPoints();
 app.AddCourseEndPoints();
+app.AddBikeStationEndPoints();
 
 app.Run();
 
